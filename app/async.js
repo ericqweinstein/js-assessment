@@ -11,3 +11,4 @@ define([ 'jquery' ], function($) {
     }
   };
 });
+
