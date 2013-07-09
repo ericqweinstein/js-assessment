@@ -25,8 +25,8 @@ define(function() {
     },
 
     isUSD : function(str) {
-      // JavaScript doesn't support look-behind
-      // assertions? Are you fucking kidding me?
+      // JavaScript doesn't support look-behind assertions?
+      // Are you fucking kidding me?
       //
       // For the record: /^\$\d+(?:(?<=\d),\d{3}|\d{,2})+(?:\.\d{2})?$/
       // 
