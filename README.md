@@ -3,6 +3,10 @@
 This repo includes a set of tests that can be used to assess the skills of
 a candidate for a JavaScript position, or to improve one's own skills.
 
+**This repo was originally created by Rebecca Murphey (see below). I've asked
+GH to detach this fork from the original so my contributions will appear
+without my making a PR &amp; merging, which is not the use case here. &mdash EW**
+
 ## I want to work on the tests; what do I do?
 To use the tests, you will need to install Node -- you can do this via the
 [download page](http://nodejs.org/#download) or using
